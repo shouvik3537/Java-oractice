@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class condition {
+public class fibonaci {
     public static void main(String[] args) {
      Scanner in = new Scanner(System.in);
      System.out.println("enter the length of fibonaci series");
