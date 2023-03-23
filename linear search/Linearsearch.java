@@ -8,7 +8,7 @@ public class Linearsearch {
         }
         in.close();
         for(int i=0;i<6;i++){
-            System.out.println("numbs[i]");
+            System.out.println(numbs[i]);
         }
     }
 
